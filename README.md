@@ -15,7 +15,7 @@ Terraform module for deploying an **Azure Container App** — developed as part 
 - Automatically configures **health probes**  
 - Enables **external ingress** for public access  
 - Designed to integrate with a shared **Container Apps Environment**
-- It's consumed by the infrastructure repository: [**Infrastructure Repository - GitHub**](https://github.com/codenamecoffee/Azure_Container_Apps_Terraform_Infrastructure)
+- It's consumed by the infrastructure repository: [**Infrastructure Repository - GitHub**](https://github.com/codenamecoffee/azure-container-apps-terraform-infrastructure)
 
 <br>
 
@@ -195,4 +195,5 @@ This project is licensed under the MIT License.
 ## 🎓 Educational Context
 
 This module was developed as part of the School of Software Engineering – Endava (2025) to practice Terraform module design, Azure resource provisioning, and CI/CD workflows for Infrastructure as Code.
+
 It is intended for educational purposes and reference only.
